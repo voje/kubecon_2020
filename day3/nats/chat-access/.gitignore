@@ -1,0 +1,14 @@
+*.creds
+*.conf
+*.nk
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Mac
+.DS_Store
+
+# bin
+chat-access
